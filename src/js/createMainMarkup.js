@@ -2,6 +2,7 @@ const refs = {
   gallery: document.querySelector('.gallery'),
 }
 
+
 import { filmGenre } from './genre'
 
 import noImg from "../img/no-img.jpg"

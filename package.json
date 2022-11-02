@@ -2,7 +2,7 @@
   "name": "fifty-team-js-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://gVolodymyrBashtanyuk/fifty-team-js-project",
+  "homepage": "https://github.com/Nataliia2/GoIT---Filmoteka.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /fifty-team-js-project/"

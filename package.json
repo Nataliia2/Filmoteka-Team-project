@@ -2,10 +2,10 @@
   "name": "fifty-team-js-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://nataliia2.github.io/GoIT---Filmoteka/",
+  "homepage": "https://nataliia2.github.io/Filmoteka-Team-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /fifty-team-js-project/"
+    "build": "parcel build src/*.html --public-url /Filmoteka-Team-project/"
   },
   "repository": {
     "type": "git",
